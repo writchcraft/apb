@@ -9,6 +9,7 @@
 - Localization — Icons + Gradients (purple->Red)
 - Graphics — Graphic changes with labels
 - Transparent + Fast UI
+- Garbage Collection = 60 (default)
 
 ## Graphic Presets
 ---
@@ -18,6 +19,12 @@ Low - Low poly
 Medium - High Texture Outline
 High - Low Texture
 Maximum - MAXIMUM
+
+## Garbage Collection
+
+By default = 60 (for customizations)
+To change for missions: `Engine\Config/BaseEngine.ini` and CTRL+F or search for this here, and change the =60 to 0
+<img width="488" height="124" alt="image" src="https://github.com/user-attachments/assets/dbefde53-71dc-4db7-9585-bf3dca350de5" />
 
 ## Credits
 ---
