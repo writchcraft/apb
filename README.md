@@ -20,10 +20,15 @@
 ---
 
 Minimal - writch (My main preset)
+
 Low - Low poly
+
 Medium - High Texture Outline
-High - Low Texture
+
+High - Low Texture (Lazer's lowest preset)
+
 Maximum - MAXIMUM
+
 
 ## Garbage Collection
 
