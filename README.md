@@ -24,6 +24,7 @@ Maximum - MAXIMUM
 
 By default = 60 (for customizations)
 To change for missions: `Engine\Config/BaseEngine.ini` and CTRL+F or search for this here, and change the =60 to 0
+
 <img width="488" height="124" alt="image" src="https://github.com/user-attachments/assets/dbefde53-71dc-4db7-9585-bf3dca350de5" />
 
 ## Credits
