@@ -38,7 +38,7 @@ spells — Helping with the OG stepped colours
 
 [jmilos](https://www.youtube.com/@jmilosapb) — Has taught me and helped with so many things config related
 
-[AltShadow](github.com/altshadow69/apb-minimized) — Icon support
+[AltShadow](https://github.com/altshadow69/apb-minimized) — Icon support
 
 [myamai](https://myamai.neocities.org/apb/localization) — Localization Spreadsheet
 
