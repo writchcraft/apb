@@ -43,6 +43,9 @@
 | **High** | Low texture (Lazer's lowest preset) |
 | **Maximum** | Maximum visual quality |
 
+> [!Note]
+> the "outline" is caused by a visual bug there the sun and shadows are around player models, this causes an outline to appear around player models in some locations
+
 ---
 
 ## Garbage Collection
