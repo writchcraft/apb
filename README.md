@@ -33,6 +33,22 @@
 
 ---
 
+## Icons + Localization
+
+District tab is the Reaper scythe tag
+<img width="219" height="74" alt="image" src="https://github.com/user-attachments/assets/a35f79dd-03f4-401a-9bab-e664b29f26be" />
+
+Weapon list
+<img width="263" height="260" alt="image" src="https://github.com/user-attachments/assets/4c16b8c2-c1a8-4527-8c7b-290d8fe9eaf1" />
+
+Clothing list
+<img width="169" height="464" alt="image" src="https://github.com/user-attachments/assets/f1b819f4-b964-4139-a6ec-7d6f555519c7" />
+
+Vehicle list
+<img width="206" height="126" alt="image" src="https://github.com/user-attachments/assets/ec04b128-b285-4a0f-ba8c-0a37fade2cf4" />
+
+---
+
 ## Graphic Presets
 
 | Preset | Description |
