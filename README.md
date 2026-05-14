@@ -12,9 +12,8 @@
 
 > [!Tip]
 >Your APB folder is usually found at:
-
-    Drive:\Gamersfirst\APB Reloaded\
-    Drive:\Steam\steamapps\common\APB Reloaded\
+>    - Drive:\Gamersfirst\APB Reloaded\
+>    - Drive:\Steam\steamapps\common\APB Reloaded\
 
 ---
 
