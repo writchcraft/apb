@@ -7,7 +7,9 @@
 
 ---
 
-> [!Install]
+## Instillation
+
+> [!Important]
 > to install, drag the APBGame and Engine folders into the APB Directory and replace the files
 
 > [!Tip]
