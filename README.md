@@ -37,10 +37,10 @@
 
 | Preset | Description |
 |---|---|
-| **Minimal | writch** | My main preset |
-| **Low** | Low poly |
-| **Medium** | High texture outline |
-| **High** | Low texture, based on Lazer's lowest preset |
+| **Minimal** | **writch** (My main preset) |
+| **Low** | Low poly w/ outline |
+| **Medium** | High texture w/ outline |
+| **High** | Low texture (Lazer's lowest preset) |
 | **Maximum** | Maximum visual quality |
 
 ---
