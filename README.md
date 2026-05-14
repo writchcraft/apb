@@ -88,7 +88,7 @@ spells — Helping with the OG stepped colours
 
 [Flaws](https://github.com/flawsv/apb) — No Ragdolls
 
-[jmilos](https://www.youtube.com/@jmilosapb) — Has taught me and helped with so many things config related
+[jmilos](https://www.youtube.com/@jmilosapb) — Taught me lots + helped with technical side of config
 
 [lazer](https://github.com/lvzxr/apb-cfg-loader) — Low Texture graphic preset and answering my questions
 
