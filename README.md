@@ -66,7 +66,7 @@ spells — Helping with the OG stepped colours
 
 [AltShadow](https://github.com/altshadow69/apb-minimized) — Icon support
 
-[Flaws](https://github.com/flawsv/apb) - No Ragdolls
+[Flaws](https://github.com/flawsv/apb) — No Ragdolls
 
 [jmilos](https://www.youtube.com/@jmilosapb) — Has taught me and helped with so many things config related
 
