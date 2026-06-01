@@ -41,7 +41,7 @@
 
 > ### **Weapon list**
 > 
-> <img width="263" height="260" alt="image" src="https://github.com/user-attachments/assets/4c16b8c2-c1a8-4527-8c7b-290d8fe9eaf1" />
+> <img width="192" height="250" alt="image" src="https://github.com/user-attachments/assets/d2f1b74e-7e00-4e42-9f23-15321f62ebe4" />
 
 > ### **Clothing list**
 > 
