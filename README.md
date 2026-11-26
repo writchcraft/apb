@@ -20,6 +20,14 @@ Every part has the same layout: open the folder and drag whatever is inside (**A
 >    - Drive:\Gamersfirst\APB Reloaded\
 >    - Drive:\Steam\steamapps\common\APB Reloaded\
 
+### Easy Install (everything)
+
+Open the `EASY INSTALL` folder and drag **APBGame** and **Engine** into your APB folder, replacing the files. That's it.
+
+It includes Core + Graphics + Keybinds + Transparent UI + Weapon Stats + Vehicle Stats + Mission Icons, with Garbage Collection set to **60**.
+
+Want to pick and choose instead? Use the parts below.
+
 ### 1. Core (required)
 
 | Folder | What it does |
