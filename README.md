@@ -35,15 +35,11 @@ Install **Core first**, then add any of the optional parts below.
 | `Graphics` | My graphics presets (see [Graphic Presets](#graphic-presets)) |
 | `Keybinds` | My keybinds + Push to Talk / Push for Privacy binds |
 | `Transparent UI` | Transparent UI, and chat fades after 5 seconds |
-| `Audio + Voice Chat` | Volume, voice chat and custom song settings |
 | `Garbage Collection/GC 0 (Missions)` | Sets Garbage Collection to **0** for missions (Core uses 60 for customization) |
 | `Garbage Collection/GC 60 (Customization)` | Switches Garbage Collection back to **60** |
 | `Localization Addons/Weapon Stats` | Weapon stats in every weapon description |
 | `Localization Addons/Vehicle Stats` | Vehicle stats in every vehicle description, including weight |
 | `Localization Addons/Mission Icons` | Mission titles show equipment **icons** instead of text like `[Spray Can]` |
-
-> [!Warning]
-> `Audio + Voice Chat` replaces your **APBMachineOptions.ini**, which also resets your resolution, graphics quality and mouse sensitivity, so set those again in-game afterwards
 
 > [!Note]
 > Skipping an add-on doesn't remove it if you installed it before. To go back to default, run **Repair** in the APB launcher, then install your chosen parts again
