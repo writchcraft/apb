@@ -9,8 +9,8 @@
 
 ## Installation
 
-> [!Important]
-> to install, drag the APBGame and Engine folders into the APB Directory and replace the files
+The config is split into parts, so you only install what you want.  
+Every part has the same layout: open the folder and drag whatever is inside (**APBGame** and/or **Engine**) into your APB folder, replacing the files.
 
 > [!Important]
 > The localization files are **.GER**, so add `-Language=1031` to your APB launch options
@@ -19,6 +19,34 @@
 >Your APB folder is usually found at:
 >    - Drive:\Gamersfirst\APB Reloaded\
 >    - Drive:\Steam\steamapps\common\APB Reloaded\
+
+### 1. Core (required)
+
+| Folder | What it does |
+|---|---|
+| `Core` | Uncapped FPS, ragdolls, muzzle flash, Garbage Collection **60**, splash screen and the main localization (icons, colours, item weights, objective timers) |
+
+Install **Core first**, then add any of the optional parts below.
+
+### 2. Optional
+
+| Folder | What it does |
+|---|---|
+| `Graphics` | My graphics presets (see [Graphic Presets](#graphic-presets)) |
+| `Keybinds` | My keybinds + Push to Talk / Push for Privacy binds |
+| `Transparent UI` | Transparent UI, and chat fades after 5 seconds |
+| `Audio + Voice Chat` | Volume, voice chat and custom song settings |
+| `Garbage Collection/GC 0 (Missions)` | Sets Garbage Collection to **0** for missions (Core uses 60 for customization) |
+| `Garbage Collection/GC 60 (Customization)` | Switches Garbage Collection back to **60** |
+| `Localization Addons/Weapon Stats` | Weapon stats in every weapon description |
+| `Localization Addons/Vehicle Stats` | Vehicle stats in every vehicle description, including weight |
+| `Localization Addons/Mission Icons` | Mission titles show equipment **icons** instead of text like `[Spray Can]` |
+
+> [!Warning]
+> `Audio + Voice Chat` replaces your **APBMachineOptions.ini**, which also resets your resolution, graphics quality and mouse sensitivity, so set those again in-game afterwards
+
+> [!Note]
+> Skipping an add-on doesn't remove it if you installed it before. To go back to default, run **Repair** in the APB launcher, then install your chosen parts again
 
 ---
 
@@ -83,7 +111,9 @@ Customization (Default) = 60
 
 Missions = 0 
 
-To change for missions / customization: `Engine\Config\BaseEngine.ini` and CTRL+F or search for this here, and change the **TimeBetweenPurgingPendingKillObjects=60** -> **TimeBetweenPurgingPendingKillObjects=0**
+To switch, install `Garbage Collection/GC 0 (Missions)` or `Garbage Collection/GC 60 (Customization)`.
+
+Or change it yourself: open `Engine\Config\BaseEngine.ini`, CTRL+F, and change **TimeBetweenPurgingPendingKillObjects=60** -> **TimeBetweenPurgingPendingKillObjects=0**
 
 <img width="488" height="124" alt="image" src="https://github.com/user-attachments/assets/dbefde53-71dc-4db7-9585-bf3dca350de5" />
 
