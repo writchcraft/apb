@@ -25,7 +25,7 @@
 ## Features
 
 - Uncapped FPS
-- Custom keybinds (see [Keybinds](#keybinds))
+- Custom keybinds
 - Muzzle Flash: **ON**
 - NPC Ragdolls: **OFF**
 - Player Ragdolls: **ON**
@@ -74,19 +74,6 @@
 
 > [!Note]
 > the "outline" is caused by a visual bug where the sun and shadows are around player models, this causes an outline to appear around player models in some locations
-
----
-
-## Keybinds
-
-| Action | Key |
-|---|---|
-| Lean Left (toggle) | **Q** |
-| Lean Right (toggle) | **E** / **Mouse 5** |
-| Equip Grenade | **G** |
-| Crouch Toggle | *Unbound* |
-| Push to Talk | *Unbound* (set it in Options → Controls) |
-| Push for Privacy | *Unbound* (set it in Options → Controls) |
 
 ---
 
