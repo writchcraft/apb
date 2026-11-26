@@ -7,10 +7,13 @@
 
 ---
 
-## Instillation
+## Installation
 
 > [!Important]
 > to install, drag the APBGame and Engine folders into the APB Directory and replace the files
+
+> [!Important]
+> The localization files are **.GER**, so add `-Language=1031` to your APB launch options
 
 > [!Tip]
 >Your APB folder is usually found at:
@@ -22,13 +25,19 @@
 ## Features
 
 - Uncapped FPS
-- Custom keybinds
+- Custom keybinds (see [Keybinds](#keybinds))
 - Muzzle Flash: **ON**
 - NPC Ragdolls: **OFF**
 - Player Ragdolls: **ON**
 - Custom localization with icons and purple-to-red gradients
+- Weapon stats in every weapon description (Time to Kill, Shots to Kill, Damage, Dropoff Range, Reload Time, etc.)
+- Vehicle stats in every vehicle description, including **Vehicle Weight**
+- Mission menu shows equipment **icons** instead of text (e.g. Spray Can, Wire Cutters, Battering Ram)
+- Mission objectives show item weights and how long each objective takes
+- Up to date with the latest Joker Store weapons
+- VOIP / Push-to-Talk support
 - Graphics presets with labelled changes
-- Transparent and faster UI
+- Transparent and faster UI, chat fades out after 5 seconds
 - Garbage Collection set to **60** by default
 
 ---
@@ -57,14 +66,27 @@
 
 | Preset | Description |
 |---|---|
-| **Minimal** | **writch** (My main preset) |
+| **Minimal** | Clay + low poly |
 | **Low** | Low poly w/ outline |
-| **Medium** | High texture w/ outline |
-| **High** | Low texture (Lazer's lowest preset) |
+| **Medium** | **writch** (My main preset) |
+| **High** | Lazer's medium preset |
 | **Maximum** | Maximum visual quality |
 
 > [!Note]
-> the "outline" is caused by a visual bug there the sun and shadows are around player models, this causes an outline to appear around player models in some locations
+> the "outline" is caused by a visual bug where the sun and shadows are around player models, this causes an outline to appear around player models in some locations
+
+---
+
+## Keybinds
+
+| Action | Key |
+|---|---|
+| Lean Left (toggle) | **Q** |
+| Lean Right (toggle) | **E** / **Mouse 5** |
+| Equip Grenade | **G** |
+| Crouch Toggle | *Unbound* |
+| Push to Talk | *Unbound* (set it in Options → Controls) |
+| Push for Privacy | *Unbound* (set it in Options → Controls) |
 
 ---
 
@@ -90,7 +112,7 @@ spells — Helping with the OG stepped colours
 
 [jmilos](https://www.youtube.com/@jmilosapb) — keybinds
 
-[lazer](https://github.com/lvzxr/apb-cfg-loader) — Low Texture graphic preset and answering my questions
+[lazer](https://github.com/lvzxr/apb-cfg-loader) — Medium graphic preset (used for **High**) and answering my questions
 
 [myamai](https://myamai.neocities.org/apb/localization) — Localization Spreadsheet
 
