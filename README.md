@@ -24,7 +24,10 @@ Every part has the same layout: open the folder and drag whatever is inside (**A
 
 Open the `EASY INSTALL` folder and drag **APBGame** and **Engine** into your APB folder, replacing the files. That's it.
 
-It includes Core + Graphics + Keybinds + Transparent UI + Weapon Stats + Vehicle Stats + Mission Icons, with Garbage Collection set to **60**.
+It includes Core + Graphics + Keybinds + Transparent UI + Weapon Stats + Vehicle Stats + Mission Icons, with Garbage Collection set to **60** and Disk Cache **off**.
+
+> [!Important]
+> If you have **16 GB of RAM or less**, also install `Disk Cache/On (16 GB RAM or less)` after Easy Install
 
 Want to pick and choose instead? Use the parts below.
 
@@ -32,7 +35,7 @@ Want to pick and choose instead? Use the parts below.
 
 | Folder | What it does |
 |---|---|
-| `Core` | Uncapped FPS, ragdolls, muzzle flash, Garbage Collection **60**, splash screen and the main localization (icons, colours, item weights, objective timers) |
+| `Core` | Uncapped FPS, ragdolls, muzzle flash, Garbage Collection **60**, Disk Cache **off**, splash screen and the main localization (icons, colours, item weights, objective timers) |
 
 Install **Core first**, then add any of the optional parts below.
 
@@ -45,6 +48,8 @@ Install **Core first**, then add any of the optional parts below.
 | `Transparent UI` | Transparent UI, and chat fades after 5 seconds |
 | `Garbage Collection/GC 0 (Missions)` | Sets Garbage Collection to **0** for missions (Core uses 60 for customization) |
 | `Garbage Collection/GC 60 (Customization)` | Switches Garbage Collection back to **60** |
+| `Disk Cache/On (16 GB RAM or less)` | Turns Disk Cache **on**. Use this if you have **16 GB of RAM or less** |
+| `Disk Cache/Off (32 GB RAM or more)` | Turns Disk Cache **off** (default). Use this if you have **32 GB of RAM or more** |
 | `Localization Addons/Weapon Stats` | Weapon stats in every weapon description |
 | `Localization Addons/Vehicle Stats` | Vehicle stats in every vehicle description |
 | `Localization Addons/Mission Icons` | Mission titles show equipment **icons** instead of text like `[Spray Can]` |
