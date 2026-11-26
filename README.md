@@ -46,7 +46,7 @@ Install **Core first**, then add any of the optional parts below.
 | `Garbage Collection/GC 0 (Missions)` | Sets Garbage Collection to **0** for missions (Core uses 60 for customization) |
 | `Garbage Collection/GC 60 (Customization)` | Switches Garbage Collection back to **60** |
 | `Localization Addons/Weapon Stats` | Weapon stats in every weapon description |
-| `Localization Addons/Vehicle Stats` | Vehicle stats in every vehicle description, including weight |
+| `Localization Addons/Vehicle Stats` | Vehicle stats in every vehicle description |
 | `Localization Addons/Mission Icons` | Mission titles show equipment **icons** instead of text like `[Spray Can]` |
 
 > [!Note]
